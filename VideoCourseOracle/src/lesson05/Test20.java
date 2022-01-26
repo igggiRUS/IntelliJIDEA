@@ -1,11 +1,19 @@
 package lesson05;
-public class Test20 {
+public abstract class Test20 {
 	// СОЗДАН МЕТОД "выполняемое действие" складывает 3 числа
 	// метод summa типа int принадлежит классу test20
 	int summa(int a, int b, int c) { // создан метод
 		int result = a + b + c; // в теле создана переменная результат
 		return result; // возвращает результат в метод
 	}
+
+
+	int srednArifmet(int a1, int b1, int c1); {
+	int result2 = summa(a1,b1,c1)/3;
+	return result2;
+	}
+
+
 }
 
 // создаем новый класс
