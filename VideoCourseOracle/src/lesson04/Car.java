@@ -1,3 +1,6 @@
+/*
+
+
 package lesson04;
 public class Car {
 
@@ -17,3 +20,4 @@ class CarTest05 {
         Car car1 =new Car("black", "v6");
     }
 }
+*/
