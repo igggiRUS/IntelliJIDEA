@@ -12,7 +12,7 @@ public class Employee03end {
   Для этого используют оператор  this
   */
 
-  Employee03end(int id2, String surname2, int age2) {
+  public Employee03end(int id2, String surname2, int age2) {
   /*
     Конструктор ссылается на тело с данными
     Employee03end(int id4, String surname4, int age4, double salary4, String department4)

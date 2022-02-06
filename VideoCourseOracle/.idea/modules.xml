@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VideoCourseOracle.iml" filepath="$PROJECT_DIR$/VideoCourseOracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yandexprectikum/yandexprectikum.iml" filepath="$PROJECT_DIR$/yandexprectikum/yandexprectikum.iml" />
     </modules>
   </component>
 </project>

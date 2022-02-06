@@ -1,0 +1,4 @@
+/src/main/java/day2/.idea
+*.iml
+/target
+/src/test

@@ -24,7 +24,7 @@ public class Employee03 {
     this(id2, surname2, age2, 0.0, null);
   }
 
-  Employee03(String surname3, int age3) {
+  public Employee03(String surname3, int age3) {
    /*
     так же как и в предыдущем случае заменили значения которых нет на значения по умолчанию
     id типа int стало 0 double типа дроби стало 0.0 department типа String стала null
@@ -36,7 +36,7 @@ public class Employee03 {
   Cначало пишем конструктор с самым длинным телом
   */
 
-  Employee03(int id4, String surname4, int age4, double salary4, String department4) {
+  public Employee03(int id4, String surname4, int age4, double salary4, String department4) {
     id = id4;
     surname = surname4;
     age = age4;

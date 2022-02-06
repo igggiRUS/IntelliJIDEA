@@ -1,4 +1,4 @@
-package Lesson01;
+package lesson01;
 public class test01_print_println {
     /**
      * @param args the command line arguments
