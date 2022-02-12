@@ -1,21 +1,21 @@
 package home;
 
-public class Student {
+public class Student04 {
 
   // instance переменные экземпляра
   int studentTicket;
   String name;
   String sureName;
   short yearOfAdmission;
-  byte avgEconomics;
-  byte avgMathematics;
-  byte avgForeign;
+  float avgEconomics;
+  float avgMathematics;
+  float avgForeign;
 
   static class StudentAverage {
 
     public static void main(String[] args) {
 
-      Student s1 = new Student();
+      Student04 s1 = new Student04();
       /*
       Вызывается конструктор new для создания объекта Student()
       на основе класса Student и присваивается референсная ссылка s1
@@ -29,9 +29,9 @@ public class Student {
             avgForeign,
       указанных в теле класса Student к которым обращается ссылка s1 на основе конструктора объекта
       */
-      Student s2 = new Student();
-      Student s3 = new Student();
-      Student s4 = new Student();
+      Student04 s2 = new Student04();
+      Student04 s3 = new Student04();
+      Student04 s4 = new Student04();
 
       s1.name = "Mihail";
       s1.sureName = "Bez";
@@ -39,8 +39,8 @@ public class Student {
       s1.avgEconomics = 2;
       s1.avgMathematics = 5;
       s1.avgForeign = 5;
-      int i1 = (s1.avgEconomics + s1.avgMathematics + s1.avgForeign) / 3;
-      System.out.println(i1);
+      System.out.println("средняя оценка " + s1.name + " " + s1.sureName + " " + ( s1.avgEconomics + s1.avgMathematics + s1.avgForeign ) / 3);
+      
 
       s2.studentTicket = 2;
       s2.name = "Olga";
@@ -49,8 +49,7 @@ public class Student {
       s2.avgEconomics = 3;
       s2.avgMathematics = 4;
       s2.avgForeign = 4;
-      int i2 = (s2.avgEconomics + s2.avgMathematics + s2.avgForeign) / 3;
-      System.out.println(i2);
+      System.out.println("средняя оценка " + s2.name + " " + s2.sureName + " " + ( s2.avgEconomics + s2.avgMathematics + s2.avgForeign ) / 3);
 
       s3.studentTicket = 3;
       s3.name = "Aleksa";
@@ -59,8 +58,7 @@ public class Student {
       s3.avgEconomics = 5;
       s3.avgMathematics = 5;
       s3.avgForeign = 5;
-      int i3 = (s3.avgEconomics + s3.avgMathematics + s3.avgForeign) / 3;
-      System.out.println(i3);
+      System.out.println("средняя оценка " + s3.name + " " + s3.sureName + " " + ( s3.avgEconomics + s3.avgMathematics + s3.avgForeign ) / 3);
 
       s4.studentTicket = 4;
       s4.name = "Oksana";
@@ -69,8 +67,7 @@ public class Student {
       s4.avgEconomics = 1;
       s4.avgMathematics = 3;
       s4.avgForeign = 2;
-      int i4 = (s4.avgEconomics + s4.avgMathematics + s4.avgForeign) / 3;
-      System.out.println(i4);
+      System.out.println("средняя оценка " + s4.name + " " + s4.sureName + " " + ( s4.avgEconomics + s4.avgMathematics + s4.avgForeign ) / 3);
     }
   }
 }

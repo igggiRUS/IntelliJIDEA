@@ -1,8 +1,8 @@
-package Operator;
+package day01;
 
-public class Task1 {
+public class Task1for {
 
-  public Task1() {
+  public Task1for () {
   }
 
   public static void main(String[] args) {

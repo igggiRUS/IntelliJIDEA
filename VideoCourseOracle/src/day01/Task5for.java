@@ -1,13 +1,13 @@
-package Operator;
+package day01;
 
 
-public class Task5 {
+public class Task5for {
 
-  public Task5() {
+  public void Task5for() {
   }
 
   public static void main(String[] args) {
-    for (int i = 1980; i <= 2020; i += 4) {
+    for (int i = 1979; i <= 2022; i += 4) {
       System.out.println("Олимпиада  " + i + " года");
     }
 
