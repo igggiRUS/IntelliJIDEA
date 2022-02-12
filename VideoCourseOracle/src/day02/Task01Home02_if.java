@@ -2,7 +2,7 @@ package day02;
 
 import java.util.Scanner;
 
-public class Task01Home_if {
+public class Task01Home02_if {
 
   public static void main(String[] args) {
     System.out.println("Введите этажность дома");
