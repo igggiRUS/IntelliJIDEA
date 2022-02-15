@@ -2,7 +2,7 @@ package day03;
 
 import java.util.Scanner;
 
-public class day03Lesson10 {
+public class day03Lesson10_switch {
   // импортировал класс сканер
   // аналог оператора if
   // конструтор объекта сканер  который вносит данные с консоли во входной поток
