@@ -5,39 +5,19 @@ import java.util.Scanner;
 public class day02Home_01 {
 
   public static void main(String[] args) {
+    System.out.println("Введи название города");
     Scanner scanner = new Scanner(System.in);
     String city = scanner.nextLine();
-    if (city == "Москва") {
+    if (city.equals("Москва")) {
       System.out.println("Россия");
-    } else if (city == "Спб") {
+    } else if (city.equals("Спб")) {
       System.out.println("Россия");
-    } else if (city == "Екб") {
+    } else if (city.equals("Екб")) {
       System.out.println("Россия");
-    } else if (city == "stop") {
-      break;
+    } else if (city.equals("stop")) {
+      System.out.println("xxx");
     } else {
-      continue;
+      System.out.println("пиши правильно");
     }
   }
 }
-
-
-
-
-      /*
-      case "Москва":
-        System.out.println("Россия");
-        break;
-      case "Владивосток":
-        System.out.println("Россия");
-        break;
-      case "Ростов":
-        System.out.println("Россия");
-        break;
-    }
-
-    continue;
-  }
-    */
-
-
