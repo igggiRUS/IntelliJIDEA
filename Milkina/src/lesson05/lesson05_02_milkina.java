@@ -2,7 +2,14 @@ package lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_02_milkin {
+public class lesson05_02_milkina {
+  /*
+  Ввод данных с условим проверки.
+  Так же внутри условия стоит метод в теле когторого есть цикл
+    Scanner scanner = new Scanner(System.in);
+    if (scanner.hasNextInt()) {
+
+   */
 
   public static void main(String[] args) {
     System.out.println("Введите число");
