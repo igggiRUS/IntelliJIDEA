@@ -1,5 +1,5 @@
-package lesson03;
-public class lesson03_04 {
+package Lesson03;
+public class Lesson03_04 {
         public static void main (String []agrs){
         int a=13,b=3;
         double j=13,k=3;

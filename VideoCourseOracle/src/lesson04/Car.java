@@ -1,7 +1,7 @@
 /*
 
 
-package lesson04;
+package Lesson04;
 
 public class Car {
 

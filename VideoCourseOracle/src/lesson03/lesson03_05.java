@@ -1,5 +1,5 @@
-package lesson03;
-public class lesson03_05 {
+package Lesson03;
+public class Lesson03_05 {
          public static void main (String []agrs){
          /*
              Оператор char символьный

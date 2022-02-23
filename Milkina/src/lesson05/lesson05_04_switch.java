@@ -1,8 +1,8 @@
-package lesson05;
+package Lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_04_switch {
+public class Lesson05_04_switch {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package lesson05;
+package Lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_02 {
+public class Lesson05_02 {
 
   public static void main(String[] args) {
     System.out.println("Введите число");

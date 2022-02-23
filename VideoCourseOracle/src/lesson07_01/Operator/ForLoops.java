@@ -1,4 +1,4 @@
-package lesson07_01.Operator;
+package Lesson07_01.Operator;
 
 public class ForLoops {
 

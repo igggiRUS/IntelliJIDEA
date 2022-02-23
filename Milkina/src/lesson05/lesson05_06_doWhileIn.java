@@ -1,9 +1,9 @@
 
-package lesson05;
+package Lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_06_doWhileIn {
+public class Lesson05_06_doWhileIn {
 
   public static void main(String[] args) {
     System.out.println("Введите число: ");

@@ -1,6 +1,6 @@
-package lesson05;
+package Lesson05;
 
-public class lesson05_01_chet_nechet {
+public class Lesson05_01_chet_nechet {
 
   public static void main(String[] args) {
 String y = "33";

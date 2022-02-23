@@ -1,5 +1,5 @@
-package lesson03;
-public class lesson03_03 {
+package Lesson03;
+public class Lesson03_03 {
      public static void main (String []agrs){
          
          int x = 5;

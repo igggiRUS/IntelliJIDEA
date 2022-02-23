@@ -1,5 +1,5 @@
 
-package lesson06;
+package Lesson06;
 
 class MethodOverLoadingStart {
 

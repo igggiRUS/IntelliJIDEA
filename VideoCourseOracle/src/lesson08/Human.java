@@ -1,4 +1,4 @@
-package lesson08;
+package Lesson08;
 
 // класс с полямы создали пакет
 public class Human {

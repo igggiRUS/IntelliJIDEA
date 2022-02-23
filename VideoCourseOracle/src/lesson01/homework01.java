@@ -1,4 +1,4 @@
-package lesson01;
+package Lesson01;
 public class homework01 {
     /**
      * @param args the command line arguments

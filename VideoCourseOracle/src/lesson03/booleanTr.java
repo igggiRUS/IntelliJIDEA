@@ -1,4 +1,4 @@
-package lesson03;
+package Lesson03;
 public class booleanTr {
     public static void main (String []agrs){
     

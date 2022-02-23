@@ -1,6 +1,6 @@
-package lesson07_01;
+package Lesson07_01;
 
-import lesson07.Employee;
+import Lesson07.Employee;
 
 public class TretiiClass {
 

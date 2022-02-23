@@ -1,6 +1,6 @@
-package lesson05;
+package Lesson05;
 
-public class lesson05_07_WhileFor {
+public class Lesson05_07_WhileFor {
 
   public static void main(String[] args) {
     char symbol = 'h';

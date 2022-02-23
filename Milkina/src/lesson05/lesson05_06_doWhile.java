@@ -1,6 +1,6 @@
-package lesson05;
+package Lesson05;
 
-public class lesson05_06_doWhile {
+public class Lesson05_06_doWhile {
 
   public static void main(String[] args) {
     int i = 100;

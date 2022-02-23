@@ -1,5 +1,5 @@
 
-package lesson04;
+package Lesson04;
 
 // референсные ссылочные типы данных
 public class BankAccount {

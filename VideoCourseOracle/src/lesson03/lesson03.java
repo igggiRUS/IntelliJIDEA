@@ -2,8 +2,8 @@
 Арифмитически и логические операции.
 Операции сравнения и присваивания
  */
-package lesson03;
-public class lesson03 {
+package Lesson03;
+public class Lesson03 {
     public static void main(String [ ]agrs) {
      int a=3;
      int b=5;

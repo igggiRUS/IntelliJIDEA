@@ -385,7 +385,7 @@ Your branch is up to date with 'origin/master'.
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-        **modified:   VideoCourseOracle/src/lesson05/Car2.java**
+        **modified:   VideoCourseOracle/src/Lesson05/Car2.java**
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)

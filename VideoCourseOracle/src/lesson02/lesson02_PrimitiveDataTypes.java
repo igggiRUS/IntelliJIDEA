@@ -1,5 +1,5 @@
-package lesson02;
-public class lesson02_PrimitiveDataTypes {
+package Lesson02;
+public class Lesson02_PrimitiveDataTypes {
  public static void main(String [] args)  { 
         byte b1 = 10;
         byte b2 = 20;

@@ -1,8 +1,8 @@
-package lesson05;
+package Lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_02_milkina {
+public class Lesson05_02_milkina {
   /*
   Ввод данных с условим проверки.
   Так же внутри условия стоит метод в теле когторого есть цикл

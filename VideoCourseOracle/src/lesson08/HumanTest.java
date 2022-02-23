@@ -1,4 +1,4 @@
-package lesson08;
+package Lesson08;
 // вызали класс
 public class HumanTest {
 // вызали ссылку на объект

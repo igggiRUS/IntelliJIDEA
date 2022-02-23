@@ -1,13 +1,13 @@
-package lesson08;
+package Lesson08;
 
-public class lesson08_02 {
+public class Lesson08_02 {
 
   // инстанс переменные пренадлежат всему объекту
   String color;
   String engine;
   static int count;
 
-  lesson08_02(String color2, String engine2) {
+  Lesson08_02(String color2, String engine2) {
     count++;
     color = color2;
     engine = engine2;

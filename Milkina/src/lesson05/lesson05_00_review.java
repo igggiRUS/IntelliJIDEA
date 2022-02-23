@@ -1,8 +1,8 @@
-package lesson05;
+package Lesson05;
 
 import java.util.Scanner;
 
-public class lesson05_00_review {
+public class Lesson05_00_review {
   /*
   Ввод со сканера
   Проверяется условие ввели ли целое число if (условие)

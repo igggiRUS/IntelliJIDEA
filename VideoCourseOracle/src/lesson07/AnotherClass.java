@@ -1,4 +1,4 @@
-package lesson07;
+package Lesson07;
 
 public class AnotherClass {
   // private class AnotherClass {  Если написать private то его не увидят в других классах
