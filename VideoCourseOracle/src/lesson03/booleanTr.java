@@ -1,5 +1,5 @@
 package Lesson03;
-public class booleanTr {
+public class BooleanTr {
     public static void main (String []agrs){
     
 int a=5;

@@ -42,7 +42,7 @@ class EmployeeStarter02 {
     System.out.println(emp1.surname);
     Employee02 emp2 = new Employee02("Petrov", 30);
     System.out.println(emp2.department);
-    Employee02 emp3 = new Employee02(2, "Sviridov", 40, 100.35, "IT");
+    Employee02 emp3 = new Employee02(2, "Spiridon", 40, 100.35, "IT");
     System.out.println(emp3.department);
   }
 }

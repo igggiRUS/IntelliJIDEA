@@ -1,6 +1,6 @@
 package Lesson06;
 
-class Employee01 {
+public class Employee01 {
 
   // Варианты записи
   Employee01(int id2, String surname2, int age2) {
@@ -9,7 +9,7 @@ class Employee01 {
     age = age2;
   }
 
-  Employee01(String surname2, int age2) {
+   Employee01(String surname2, int age2) {
     surname = surname2;
     age = age2;
   }
@@ -32,11 +32,11 @@ class Employee01 {
 class EmployeeStarter01 {
 
   public static void main(String[] agrs) {
-    Employee01 emp1 = new Employee01(1, "Ivan", 25);
+    Employee01 emp1 = new Employee01(1,"Ivan", 25);
     System.out.println(emp1.surname);
-    Employee01 emp2 = new Employee01("Petrov", 30);
-    System.out.println(emp2.department);
-    Employee01 emp3 = new Employee01(2, "Sviridov", 40, 100.35, "IT");
+    Employee01 emp2 = new Employee01("Petrov", 35);
+    System.out.println(emp2.age);
+    Employee01 emp3 = new Employee01(2, "Spiridon", 40, 100.35, "IT");
     System.out.println(emp3.department);
   }
 }

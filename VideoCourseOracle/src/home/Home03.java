@@ -7,7 +7,7 @@ package home;/*
  *
  * @author Misha
  */
-public class home03 {
+public class Home03 {
     public static void main (String []agrs){
     int a = 5;
     

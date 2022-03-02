@@ -1,5 +1,5 @@
 package Lesson01;
-public class test01_print_println {
+public class Test01_print_println {
     /**
      * @param args the command line arguments
      */
