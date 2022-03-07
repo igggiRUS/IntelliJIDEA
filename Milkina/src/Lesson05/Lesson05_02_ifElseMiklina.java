@@ -1,6 +1,6 @@
 package Lesson05;
 
-public class Lesson05_03_ifElseMiklina {
+public class Lesson05_02_ifElseMiklina {
 // введение данных через массив стринг
   public static void main(String[] args) {
     if ("1".equals(args[0])) {

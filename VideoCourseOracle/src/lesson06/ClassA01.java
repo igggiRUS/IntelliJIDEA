@@ -1,8 +1,6 @@
-package Lesson07;
+package Lesson06;
 
 import LessonUnderstood.Employee03end;
-import Lesson06.Employee03;
-import Lesson06.MethodOverloadingMainEnd;
 
 public class ClassA01 {
 

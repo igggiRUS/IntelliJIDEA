@@ -3,7 +3,8 @@ package Lesson05;
 
 import java.util.Scanner;
 
-public class Lesson05_06_doWhileIn {
+public class Lesson05_04_doWhileIn {
+  // TODO: Оператор ЦИКЛА "делай пока" do while сначало проверяется условие потом исполняется тело
 
   public static void main(String[] args) {
     System.out.println("Введите число: ");

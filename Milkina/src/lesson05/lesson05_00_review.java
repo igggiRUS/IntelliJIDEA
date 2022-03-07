@@ -3,7 +3,7 @@ package Lesson05;
 import java.util.Scanner;
 
 public class Lesson05_00_review {
-  /*
+  /**
   Ввод со сканера
   Проверяется условие ввели ли целое число if (условие)
   scanner.hasNextInt

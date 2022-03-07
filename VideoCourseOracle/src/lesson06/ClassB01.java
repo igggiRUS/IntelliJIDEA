@@ -1,4 +1,4 @@
-package Lesson07;
+package Lesson06;
 
 public class ClassB01 {
 
