@@ -3,7 +3,7 @@ package Lesson05;
 import java.util.Scanner;
 
 public class Lesson05_02_switch {
-// TODO: Оператор ВЫБОРА switch
+// TODO Оператор ВЫБОРА switch
 
   /**
    * switch () {

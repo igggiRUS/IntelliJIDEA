@@ -1,7 +1,7 @@
 package Lesson05;
 
 import java.util.Scanner;
-// TODO: Условный оператор if else if
+// TODO Условный оператор if else if
 
 /**
  * Управляющий оператор используется с целью направления программы по ветвям

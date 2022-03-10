@@ -1,0 +1,25 @@
+package Lesson06;
+// TODO Многомерный массив
+
+/**
+ * Многомерный массив
+ * Многомерный это массив массивов
+ * Могут, быть 2 мерные 3 мерные и 10 мерные, но ограничиваются 2 мерными
+ * В двумерных массивах используется метод перебора for
+ * 4 строки 5 столбцов 2 цикла for один вложен в другой
+ * (j+1) строка 18 начало отсчета не с нуля, а с единицы
+ */
+public class Lesson06_03_02_multiArray {
+    public static void main(String[] args) {
+        char symbol = 'а';
+        String[][] array = new String[32][32];
+        for (int i = 0; i < 32; i++) {
+            for (int j = 0; j < 32; j++) {
+                array[i][j] = symbol + "" + (j+1);
+                System.out.print(array[i][j] + " ");
+            }
+            symbol++;
+            System.out.println();
+        }
+    }
+}

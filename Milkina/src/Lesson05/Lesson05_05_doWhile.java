@@ -3,7 +3,7 @@ package Lesson05;
 import java.util.function.ToDoubleBiFunction;
 
 public class Lesson05_05_doWhile {
-  // TODO: Оператор ЦИКЛА do while сначало исполняется потом проверяется
+  // TODO Оператор ЦИКЛА do while сначало исполняется потом проверяется
   // TODO НАЧНИ ОТСЮДА С САМОГО начало РОЛИКА
 
   /**
